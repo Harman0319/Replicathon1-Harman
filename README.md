@@ -14,9 +14,7 @@ a 24-hour design-replication challenge hosted for Not Your College's Beyond Sigm
 
 | My Result | Original Reference |
 | :---: | :---: |
-| <img src="<img width="1305" height="1206" alt="My Result" src="<img width="1917" height="911" alt="Screenshot 2026-09-13 132028" src="https://github.com/user-attachments/assets/814700d4-6107-4354-aa22-c2b0aa90c1d7" />
-" />
-" width="100%"> | <img src="<img width="1725" height="912" alt="finalLook" src="https://github.com/user-attachments/assets/dda8610c-a637-4aa6-943f-c4217420efc3" />
+| <img src="<img  src="https://github.com/user-attachments/assets/d2bc8232-57d8-4113-be80-ee5bb779d77c" />" width="100%"> | <img src="<img  src="https://github.com/user-attachments/assets/355fbba9-ab19-4532-8fa5-83551a63b2b4" />
 " width="100%"> |
 
 #Built With
