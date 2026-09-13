@@ -1,0 +1,261 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html
+body{
+    width: 100%;
+    height: 100%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+main {
+    padding: 10px 50px;
+    min-height: 100vh;
+    background: radial-gradient(
+        circle at 50% 50%,
+        #F9C83D 0%,
+        #f56a00 45%,
+        #E85A00 100%
+    );
+}
+
+.placeorder{
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.nav-links p{
+    color: white;
+    cursor: pointer;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    cursor: pointer;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.buttonsec1{
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.buttonsec2{
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    font-weight: 500;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.main-section{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left{
+    width: 350px;
+}
+
+.left h1{
+    line-height: 1;
+    font-size: 70px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    display: flex;
+}
+.left p{
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 100;
+    font-family: 'inter', sans-serif;
+    line-height: 1.3;
+}
+.right p{
+    font-size: 20px;
+}
+
+
+.mid h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 350px;
+    font-weight: 300px;
+}
+
+.main-section{
+    margin-top: 30px;
+}
+
+.mid{
+    position: relative;
+    margin-left: -150px;
+}
+.mid h1{
+    position: relative;
+    z-index: 1;
+}
+.shoe{
+    margin-left: 80px;
+    position: absolute;
+    width: 450px;
+    top: 20px;
+    z-index: 2;
+}
+
+.circle1{
+    width: 50px;
+    height: 50px;
+    background-color: #42CFC7;
+    border-radius: 50%;
+    cursor: pointer;  
+}
+.circle2{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    background-color: #FB6E00;
+    border-radius: 50%;
+    cursor: pointer;  
+}
+.circle3{
+    width: 50px;
+    height: 50px;
+    background-color: #F1053B;
+    border-radius: 50%;
+    cursor: pointer;  
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.circle{
+    gap: 10px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.numcircle1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid;
+    cursor: pointer;
+}
+.numcircle2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid;
+    cursor: pointer;
+}
+.numcircle3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid;
+    cursor: pointer;
+}
+.numcircle{
+    gap: 10px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.seaall{
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+footer{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 70px;
+}
+
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.text p{
+    color: white;
+}
+.line{
+    width: 80px;
+    height: 1px;
+    color: white;
+    border: 1px solid;
+}
+
+.icons{
+    font-size: 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    cursor: pointer;
+}
